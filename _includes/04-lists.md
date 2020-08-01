@@ -3,3 +3,4 @@
 * :smile:
 * :sparkles:
 * :tada:
+  - :smile:
