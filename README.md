@@ -1,4 +1,5 @@
-## One of my first GitHub Learning Lab Repository for Communicating Using Markdown
+# lifeOfPy
+## GitHub Learning Lab Repository for Communicating Using Markdown
 
 Welcome to **my** repository for the GitHub Learning Lab course. This repository was used during the different activities that some bot actully did guide me through.
 
