@@ -1,11 +1,5 @@
-* Item 1 
-  - :heart:
-* Item 2
-  - :+1:
-* Item 3
-  - :smile:
-* Item 4
-  - :sparkles:
-* Iteam 5
-  - :tada:
-  - :smile:
+1. First list item
+   - First nested list item
+     - Second nested list item
+      - :tada:
+       - :smile:
